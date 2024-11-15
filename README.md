@@ -18,6 +18,7 @@ Completed this project as a part of my Python Intership with United Network of P
 -K-Nearest Neighbours
 -Decission Tree
 5. Summary
+
 Google Colab Link: https://colab.research.google.com/drive/102ZhZ0KDOoWeLkZiUAODfWe-Z6lNzP0I?usp=sharing
 
 Project Presentation Link: https://docs.google.com/presentation/d/1Ul2SPkeL7QiUaQtCb56mRppf0sDq5HGv/edit?usp=sharing&ouid=113121880684256084441&rtpof=true&sd=true
