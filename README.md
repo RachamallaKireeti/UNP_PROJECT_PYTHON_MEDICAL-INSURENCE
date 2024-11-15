@@ -1,7 +1,7 @@
 # UNP_PROJECT_PYTHON_MEDICAL-INSURENCE
 Completed this project as a part of my Python Intership with United Network of Professionals.
 
-**Overview-**This project covers various aspects of machine learning including data pre preprocessing, data visualisation and predictions using multiple models. 
+**Overview-** This project covers various aspects of machine learning including data pre preprocessing, data visualisation and predictions using multiple models. 
 
 **Topics Covered-**
 1. Data Preprocessing                       
@@ -19,4 +19,4 @@ Completed this project as a part of my Python Intership with United Network of P
 -Decission Tree
 5. Summary
 Google Colab Link: https://colab.research.google.com/drive/102ZhZ0KDOoWeLkZiUAODfWe-Z6lNzP0I?usp=sharing
-Project Presentation Link: https://drive.google.com/drive/folders/1pYfKsxo4rnKhvWysa2eHozaKxGcfgyML?usp=sharing
+Project Presentation Link: https://docs.google.com/presentation/d/1Ul2SPkeL7QiUaQtCb56mRppf0sDq5HGv/edit?usp=sharing&ouid=113121880684256084441&rtpof=true&sd=true
